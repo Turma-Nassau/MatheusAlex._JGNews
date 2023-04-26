@@ -13,6 +13,17 @@ um site de hub de informações de lançamentos de jogos para cada plataforma
 * CSS
 * Node.js
 
+## :hammer_and_wrench: Estrutura de Dados
+- Usuário
+  - Usuário deverá informar o nome e o Email para as notícias serem enviadas
+  ```s
+    Usuario {
+        user_id:0001
+        user_name:"Nome do Usuario"
+        e_mail:"nome@site.com.com"
+        }
+  ```
+
 ## Colaboradores 👨🏻‍💻
 <https://github.com/R4dars>
 
